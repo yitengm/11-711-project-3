@@ -1,0 +1,14 @@
+﻿Teammate A - Xiaonan Sun: 
+In the early research phase, Xiaonan led the exploration of various tasks and papers, guiding our team's decision to work with the GoEmotions dataset. She invested significant effort in developing the base model for GoEmotions, including successfully fine-tuning parameters to align our model's evaluation results with those in the original paper. Xiaonan was proactive in initiating discussions about our recent evaluation outcomes and potential enhancements. In the report, she effectively drafted the introduction and motivation sections, seamlessly transitioning into the main content where she also contributed a lot. Additionally, Xiaonan enriched the report with a very detailed analysis of training versus validation loss, significance tests, and proposed ideas for future work that significantly ensure the persuasiveness of a comprehensive report.
+
+
+
+
+Teammate B - Yiteng Mu:
+Yiteng actively participated in early brainstorming and discussion sessions, contributing key ideas on potential research directions beyond the GoEmotions paper. After the team developed a preliminary architecture for the base model, Yiteng took the lead in finalizing the code, extracting essential parameters and hyperparameters information, and logically formulating them into the report. Throughout this process, Yiteng offered valuable insights on hyperparameter selection to maintain the baseline model's performance levels. Additionally, in order to better show the limitations of the baseline model, Yiteng initialized the label-wise visualization across the model metrics on all of the emotional labels to show the comparison between our results and paper results.
+
+
+
+
+Teammate C - Sennan Cen:
+Sennan also provided valuable insights into the research stage of what topics the team should concentrate on. After the team made a decision on the GoEmotions dataset, he began to investigate the possibility of implementing the baseline model and successfully examining the possible way to retrieve the full-size dataset while also adapting baseline models on it, which facilitated downstream analysis and tuning from teammates. Sennan also offers feedback on the setting of the hyperparameter of our baseline model with potential modifications to improve its performance. Within the report, he observed and wrote the limitations of the current baseline model and contributed to the list of potential improvements that the team plans to work on.
